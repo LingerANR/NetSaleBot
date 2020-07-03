@@ -1,2 +1,2 @@
 # NetSaleBot
-Telegram Chat Bot para la gestión de bases de datos de un pequeño punto de ventas
+Telegram chat bot to manage a small point of sales database.
